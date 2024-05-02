@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![output](https://github.com/hemalokithaperumal/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144925008/19839a2f-f5fb-4a02-a558-ce5bf67e6019)
+
+### Name: HEMA LOKITHA P
+### Register Number: 212223110014
 
 ## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+
+Thus a prototype of the given part model is developed using 3D Printer.
